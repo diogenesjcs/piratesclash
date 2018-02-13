@@ -1,0 +1,8 @@
+{
+    "files": [
+      "defs/phaser.d.ts"
+    ],
+    "exclude": [
+        "node_modules/**/*"
+      ]
+  }
